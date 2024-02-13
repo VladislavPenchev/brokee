@@ -1,0 +1,22 @@
+{
+  "h1": {
+    "posts": "Постове",
+    "addANewPost": "Добави нов пост"
+  },
+  "input": {
+    "label": {
+      "postTitle": "Заглавие на поста:",
+      "author": "Автор:",
+      "content": "Съдържание:"
+    }
+  },
+  "buttons": {
+    "clearPosts": "Изтрий постовете",
+    "savePost": "Запази поста",
+    "english": "Английски",
+    "bulgarian": "Български"
+  },
+  "others": {
+    "loading": "Зареждане..."
+  }
+}

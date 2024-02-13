@@ -1,0 +1,22 @@
+{
+  "h1": {
+    "posts": "Posts",
+    "addANewPost": "Add a new Post"
+  },
+  "input": {
+    "label": {
+      "postTitle": "Post Title:",
+      "author": "Author:",
+      "content": "Content:"
+    }
+  },
+  "buttons": {
+    "clearPosts": "Clear Posts",
+    "savePost": "Save Post",
+    "english": "English",
+    "bulgarian": "Bulgarian"
+  },
+  "others": {
+    "loading": "Loading..."
+  }
+}
