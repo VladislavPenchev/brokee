@@ -1,4 +1,4 @@
-# @mean-machines-react/admin
+# @brokee
 
 ## Setup
 
